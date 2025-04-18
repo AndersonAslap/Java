@@ -1,0 +1,9 @@
+obs: sempre que executar comandos maven deve ter a pespectiva de build success
+
+> mvn clean : limpar o projeto
+
+> mvn compile : compila o projeto
+
+> mvn install
+
+> mvn site
