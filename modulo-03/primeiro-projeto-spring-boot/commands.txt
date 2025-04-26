@@ -1,0 +1,3 @@
+> mvn spring-boot:run (Executa a aplicação)
+> mvn clean (Remove o jar que está na pasta target)
+> mvn install (Faz o build da aplicação)
